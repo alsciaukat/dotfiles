@@ -1,0 +1,8 @@
+whoami
+ls
+cd ..
+ls
+ipython
+dired
+dired .
+exit

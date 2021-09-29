@@ -1,0 +1,403 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Sep 28 20:41:03 2021
+;; Desktop file format version 208
+;; Emacs version 26.3
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24914 65359 646827 406000) (desktop . "208") "harry@harry-desktop" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "white smoke") (background-color . "gray20") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "dark turquoise") (scroll-bar-background . "gray20") (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "white") (sticky) (environment) (modeline . t) (unsplittable) (frameset--id . "991E-58F7-7972-D52D") (frameset--mini t . t) (display . ":1") (icon-name) (explicit-name) (user-size . t) (fullscreen-restore . fullheight) (height . 38) (width . 138) (left . 1039) (top . 291)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 72) (min-pixel-width . 90) (min-pixel-height-ignore . 54) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 18) (min-pixel-width-safe . 18)) leaf (pixel-width . 1274) (pixel-height . 666) (total-width . 141) (total-height . 37) (normal-height . 1.0) (normal-width . 1.0) (buffer "r.tex" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 2329) (start . 1816))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("table" "deskto" "res" "tabu" "booktab" "graph" "###" "prin" "###" "biblate" "multi" "un" "." "desk"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Documents/gpl2/203.d/p.bib" "~/.emacs" "~/Documents/gpl2/202.d/ra.tab" "~/Documents/gpl2/202.d/r.tex" "~/Documents/“ÀÏ“¹Ý“¹°“¸®“ÇÐ“½Ç“Çè2/lab202.d/202A.tab" "~/Tex/templates/gplabr" "~/Tex/templates/preamble" "~/Tex/templates/gplabr" "~/Tex/gplab2r/lab202.tex" "~/Tex/templates/gp" "~/Tex/templates/preamble" "/home/harry/Tex/gp2/asg2.tex" "~/Tex/gplab2r/lab201B.tex" "~/Tex/gplab2p/lab202.tex" "~/Tex/gplab2p/lab202.bib" "~/Tex/templates/gplabp" "~/Tex/templates/preamble" "~/Tex/gplab2p/lab202.tex" "~/Tex/gplab2r/lab201B.d/201bc.tab" "~/Tex/gplab2r/lab201B.d/201bb2.tab" "~/Tex/gplab2r/lab201B.d/201bb.table" "~/Tex/gplab2r/lab201B.d/201ba.table" "~/Tex/templates/gplabr" "~/Tex/templates/preamble" "~/Tex/gplab2r/lab201B.tex" "~/Tex/gplab2r/lab201.d/201ac.table" "~/Tex/gplab2r/lab201.d/201ab.table" "~/Tex/gplab2r/lab201.d/201aa2.table" "~/.emacs" "~/Tex/gp2/asg1.tex" "~/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/harry/Documents/gpl2/202.d/r.tex"
+  "r.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  2329
+  '(1743 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24914 64640 56435 573000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (322 322 1551 1686 79 1744 1756 1772 1786 1773 2326 2326))))
+
+(desktop-create-buffer 208
+  "/home/harry/Documents/gpl2/203.d/p.tex"
+  "p.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  8465
+  '(8399 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24914 64579 931667 20000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (8229 8131 7264 6753 6731 6731 6731 6731 7780 7223 7705 7705 7705 7666 7606 8465))))
+
+(desktop-create-buffer 208
+  "/home/harry/Documents/gpl2/203.d/p.bib"
+  "p.bib"
+  'bibtex-mode
+  '(TeX-PDF-mode)
+  280
+  '(163 nil)
+  nil
+  nil
+  '((buffer-display-time 24914 39096 418837 79000) (buffer-file-coding-system . utf-8-unix) (TeX-master . t))
+  '((mark-ring (283 182 223 241 238 263 270 241 241 270 240 207 270 280))))
+
+(desktop-create-buffer 208
+  "/home/harry/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode TeX-PDF-mode)
+  752
+  '(1231 nil)
+  nil
+  nil
+  '((buffer-display-time 24914 38181 401181 326000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1197 812 750 42))))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gplab2r/_region_.tex"
+  "_region_.tex"
+  'fundamental-mode
+  '(TeX-PDF-mode)
+  1519
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 35063 31448 154000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/templates/gplabr"
+  "gplabr"
+  'fundamental-mode
+  '(TeX-PDF-mode)
+  59
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24914 30191 351418 84000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gp2/asg2.tex"
+  "asg2.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  1716
+  '(5995 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24914 26844 455507 353000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (5632 5547 6029 5373 5058 5147 5086 4941 4845 6029 4246 4173 4500 4559 4700 1630))))
+
+(desktop-create-buffer 208
+  "/etc/gdm3/Prime/Default"
+  "Default"
+  'sh-mode
+  '(TeX-PDF-mode)
+  98
+  '(98 nil)
+  t
+  nil
+  '((buffer-display-time 24914 13632 449681 842000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/gdm3/PreSession/Default"
+  "Default"
+  'sh-mode
+  '(TeX-PDF-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 13599 750729 85000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/gdm3/Xsession"
+  "Xsession"
+  'sh-mode
+  '(TeX-PDF-mode)
+  5090
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 13583 312403 956000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gplab2r/lab201B.tex"
+  "lab201B.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  4418
+  '(4417 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24914 13454 841706 593000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4396 4396 4396 4396 2799 3143 3143 3143 2668 2316 2220 2220 2335 1949 1965 4433))))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gplab2p/lab202.tex"
+  "lab202.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  1325
+  '(4072 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24914 12607 527681 840000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2238 1978 654 3185 1680 3309 4072 1133 934 1487 4072 1 1485 1832 1897 4072))))
+
+(desktop-create-buffer 208
+  "/bin/a5booklet"
+  "a5booklet"
+  'sh-mode
+  '(TeX-PDF-mode)
+  695
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 12581 240984 501000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/kernel/preinst.d/intel-microcode"
+  "intel-microcode"
+  'sh-mode
+  '(TeX-PDF-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 11788 291888 826000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harry/builtins.list"
+  "builtins.list"
+  'fundamental-mode
+  '(TeX-PDF-mode)
+  166
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24914 11778 584361 401000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/share/dpkg/pkg-info.mk"
+  "pkg-info.mk"
+  'makefile-gmake-mode
+  '(TeX-PDF-mode)
+  337
+  '(nil nil)
+  t
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 24914 5407 99855 267000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/share/dpkg/architecture.mk"
+  "architecture.mk"
+  'makefile-gmake-mode
+  '(TeX-PDF-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 24914 5402 890454 376000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/cron.daily/man-db"
+  "man-db"
+  'sh-mode
+  '(TeX-PDF-mode)
+  146
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 5380 87479 257000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/cron.d/timeshift-hourly"
+  "timeshift-hourly"
+  'fundamental-mode
+  '(TeX-PDF-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 5373 810628 677000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/grub.d/10_linux"
+  "10_linux"
+  'sh-mode
+  '(TeX-PDF-mode)
+  11992
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 5361 799145 30000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/init.d/gdm3"
+  "gdm3"
+  'sh-mode
+  '(TeX-PDF-mode)
+  2559
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 5319 893580 135000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/init.d/plymouth"
+  "plymouth"
+  'sh-mode
+  '(TeX-PDF-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 5286 717879 916000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/init.d/saned"
+  "saned"
+  'sh-mode
+  '(TeX-PDF-mode)
+  2220
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 5226 81484 683000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/bin/caspol"
+  "caspol"
+  'sh-mode
+  '(TeX-PDF-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 4970 567261 885000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gplab2p/lab202.bib"
+  "lab202.bib"
+  'bibtex-mode
+  '(TeX-PDF-mode)
+  6
+  '(68 nil)
+  nil
+  nil
+  '((buffer-display-time 24913 61884 99363 229000) (buffer-file-coding-system . utf-8-unix) (TeX-master . t))
+  '((mark-ring (40 75 14 55 75 5 6))))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gplab2r/lab201A.tex"
+  "lab201A.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  4234
+  '(4213 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24913 48558 443459 697000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4194))))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gplab1r/lab110.tex"
+  "lab110.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  3476
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24913 40680 309457 159000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gp2/asg1.tex"
+  "asg1.tex"
+  'latex-mode
+  '(TeX-PDF-mode)
+  1919
+  '(2318 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24913 40344 824640 839000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2393 2260 2260 2263 1900 1243 487 420 339 349 339 250 359 347 339 1983))))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gplab2p/lab202.log"
+  "lab202.log"
+  'fundamental-mode
+  '(TeX-PDF-mode)
+  33312
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 12833 250531 183000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/harry/Tex/gp2/_region_.tex"
+  "_region_.tex"
+  'fundamental-mode
+  '(TeX-PDF-mode)
+  2086
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 38152 771717 373000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  '(TeX-PDF-mode)
+  82718
+  '(74967 nil)
+  t
+  '("/home/harry/.emacs.d/elpa/auctex-13.0.14/auctex" "Itemize-like" ((history ("/home/harry/.emacs.d/elpa/auctex-13.0.14/auctex" "Environments" 78924) ("/home/harry/.emacs.d/elpa/auctex-13.0.14/auctex" "Editing" 59401) ("/home/harry/.emacs.d/elpa/auctex-13.0.14/auctex" "Completion" 92837) ("/home/harry/.emacs.d/elpa/auctex-13.0.14/auctex" "Editing" 59524) ("/home/harry/.emacs.d/elpa/auctex-13.0.14/auctex" "Commenting" 99088) ("/home/harry/.emacs.d/elpa/auctex-13.0.14/auctex" "Top" 4046))))
+  '((tab-width . 8) (buffer-display-time 24914 48292 932742 40000) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring (4046 59524 78924))))
+
+(desktop-create-buffer 208
+  "/home/harry/Documents/gpl2/203.d/p.log"
+  "p.log"
+  'fundamental-mode
+  '(TeX-PDF-mode)
+  50204
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24914 64640 27354 420000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
